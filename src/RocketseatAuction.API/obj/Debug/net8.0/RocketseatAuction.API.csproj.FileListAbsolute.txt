@@ -59,3 +59,4 @@ C:\Users\arthu\Documents\arthuPASTA\www\rocketseat\plus\nlw\expert\RocketseatAuc
 C:\Users\arthu\Documents\arthuPASTA\www\rocketseat\plus\nlw\expert\RocketseatAuction\src\RocketseatAuction.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\arthu\Documents\arthuPASTA\www\rocketseat\plus\nlw\expert\RocketseatAuction\src\RocketseatAuction.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\arthu\Documents\arthuPASTA\www\rocketseat\plus\nlw\expert\RocketseatAuction\src\RocketseatAuction.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\arthu\Documents\arthuPASTA\www\rocketseat\plus\nlw\expert\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net8.0\RocketseatAuction.API.sourcelink.json
