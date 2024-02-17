@@ -11,8 +11,8 @@ public class AuctionRepository : IAuctionRepository
 
     public Auction? GetCurrent()
     {
-        //var today = DateTime.Now;
-        var today = new DateTime(2024, 01, 29);
+        var today = DateTime.Now;
+        //var today = new DateTime(2024, 01, 29);
 
         return _dbContext
            .Auctions
